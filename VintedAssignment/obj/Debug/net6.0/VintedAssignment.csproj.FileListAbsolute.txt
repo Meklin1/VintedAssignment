@@ -1,0 +1,14 @@
+D:\Projektai\VintedAssignment\VintedAssignment\bin\Debug\net6.0\VintedAssignment.exe
+D:\Projektai\VintedAssignment\VintedAssignment\bin\Debug\net6.0\VintedAssignment.deps.json
+D:\Projektai\VintedAssignment\VintedAssignment\bin\Debug\net6.0\VintedAssignment.runtimeconfig.json
+D:\Projektai\VintedAssignment\VintedAssignment\bin\Debug\net6.0\VintedAssignment.dll
+D:\Projektai\VintedAssignment\VintedAssignment\bin\Debug\net6.0\VintedAssignment.pdb
+D:\Projektai\VintedAssignment\VintedAssignment\obj\Debug\net6.0\VintedAssignment.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projektai\VintedAssignment\VintedAssignment\obj\Debug\net6.0\VintedAssignment.AssemblyInfoInputs.cache
+D:\Projektai\VintedAssignment\VintedAssignment\obj\Debug\net6.0\VintedAssignment.AssemblyInfo.cs
+D:\Projektai\VintedAssignment\VintedAssignment\obj\Debug\net6.0\VintedAssignment.csproj.CoreCompileInputs.cache
+D:\Projektai\VintedAssignment\VintedAssignment\obj\Debug\net6.0\VintedAssignment.dll
+D:\Projektai\VintedAssignment\VintedAssignment\obj\Debug\net6.0\refint\VintedAssignment.dll
+D:\Projektai\VintedAssignment\VintedAssignment\obj\Debug\net6.0\VintedAssignment.pdb
+D:\Projektai\VintedAssignment\VintedAssignment\obj\Debug\net6.0\VintedAssignment.genruntimeconfig.cache
+D:\Projektai\VintedAssignment\VintedAssignment\obj\Debug\net6.0\ref\VintedAssignment.dll
